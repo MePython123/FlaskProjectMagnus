@@ -1,0 +1,12 @@
+Flask
+    Web applications like Django
+    Lightweight Web Apps or Small Scale Web Apps
+
+pip install flask
+
+
+App Routing
+URL
+HTTP
+Templates
+Database
