@@ -5,7 +5,6 @@ app = Flask(__name__)
 def home(name):
     return "Hello, "+name+" Welcome to Web Application using Flask Framework"
 
-
 def help():
     return "This is Help Page"
 
